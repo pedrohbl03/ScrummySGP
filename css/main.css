@@ -384,9 +384,6 @@ body[data-theme='light'] .dark-mode-texts .light-shape.default-shape, .light-mod
   min-height: 50px !important;
   height: 50px;
   min-width: 163px !important;
-  font-weight: 400;
-  background: transparent linear-gradient(109deg, #ED1941 0%, #EE931C 100%) 0% 0% no-repeat padding-box;
-  border-radius: 24px;
   
 }
 
@@ -1839,10 +1836,6 @@ button.offcanvas-btn-close:focus {
   min-width: 225px;
   height: 50px;
   max-width: 300px;
-  font-weight: 400;
-  background: transparent linear-gradient(109deg, #ED1941 0%, #EE931C 100%) 0% 0% no-repeat padding-box;
-  border-radius: 24px;
-  color: #ffffff
 }
 
 .btn-lhere {
@@ -2862,8 +2855,8 @@ button.offcanvas-btn-close:focus {
 
 .border-imgback {
 
-width: 200px;
-height: 200px;
+width: 250px;
+height: 250px;
 
 display: block;
 
@@ -2882,15 +2875,6 @@ opacity: 0.06;
 ------------------------------*/
 .bg-gradient-orange {
   background: transparent linear-gradient(152deg, #ED1941 0%, #EE931C 100%) 0% 0% no-repeat padding-box;
-}
-
-.bg-function {
-
-  width: 130px;
-  height: 30px;
-  background: #00000029;
-  border-radius: 16px;
-  opacity: 1;
 }
 
 .color-orange {

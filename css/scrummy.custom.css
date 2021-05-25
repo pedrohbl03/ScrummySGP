@@ -1,0 +1,18 @@
+.btn.scrummy-primary {
+    font-weight: 600;
+    background: transparent linear-gradient(109deg, #ED1941 0%, #EE931C 100%) 0% 0% no-repeat padding-box;
+    border-radius: 24px;
+    color: #ffffff
+}
+
+
+.bg-function {
+    min-width: 115px;
+    height: 30px;
+    background: #00000029;
+    border-radius: 16px;
+    opacity: 1;
+  }
+
+
+
