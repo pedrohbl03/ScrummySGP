@@ -717,7 +717,7 @@ Custom toggle arrow
 }
 
 .main-menu > li > .nav-link:hover {
-  color: #1290a4 !important;
+  color: #EE931C !important;
 }
 
 .main-menu > li > .nav-link:hover:before {
@@ -1429,7 +1429,7 @@ Custom toggle arrow
 }
 
 .l8-site-header .main-menu li .nav-link {
-  color: var(--periwinkle-gray) !important;
+  color: var(--periwinkle-gray);
   letter-spacing: 0;
 }
 
