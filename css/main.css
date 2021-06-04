@@ -2855,45 +2855,21 @@ button.offcanvas-btn-close:focus {
 
 .border-imgback {
 
-width: 250px;
-height: 250px;
-
-display: block;
-
-background: transparent linear-gradient(128deg, #ED1941 0%, #EE931C 100%) 0% 0% no-repeat padding-box;
-
-box-shadow: 0px 3px 6px #00000029;
-
-border-radius: 50px;
-
-opacity: 0.06;
+  width: 250px;
+  height: 250px;
+  display: block;
+  background: transparent linear-gradient(128deg, #ED1941 0%, #EE931C 100%) 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 50px;
+  opacity: 0.06;
+  
 }
 
 
 /* ---------------------------
   02.Utility -> { Color } 
 ------------------------------*/
-.bg-gradient-orange {
-  background: transparent linear-gradient(152deg, #ED1941 0%, #EE931C 100%) 0% 0% no-repeat padding-box;
-}
 
-.color-orange {
-  color: #EE931C;
-}
-
-
-.bg-darkgray {
-  background: #404040 0% 0% no-repeat padding-box;
-}
-
-.bg-verydark {
-  background: #232323 0% 0% no-repeat padding-box;
-}
-
-.bg-gradient-green {
-  background: transparent linear-gradient(174deg, #41BB86 0%, #41BB86 33%, #41B7BB 100%) 0% 0% no-repeat padding-box;
-
-}
 
 
 .bg-primary-opacity-visible {
