@@ -2846,24 +2846,7 @@ button.offcanvas-btn-close:focus {
 /* ---------------------------
   02.Utility -> { Border } 
 ------------------------------*/
-.border-tb-orange {
 
-  border-top: 3px solid #EE931C;
-  border-bottom: 3px solid #EE931C;
-
-}
-
-.border-imgback {
-
-  width: 250px;
-  height: 250px;
-  display: block;
-  background: transparent linear-gradient(128deg, #ED1941 0%, #EE931C 100%) 0% 0% no-repeat padding-box;
-  box-shadow: 0px 3px 6px #00000029;
-  border-radius: 50px;
-  opacity: 0.06;
-  
-}
 
 
 /* ---------------------------
