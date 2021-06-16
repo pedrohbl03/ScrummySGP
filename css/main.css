@@ -1172,20 +1172,20 @@ Custom toggle arrow
     z-index: 999999;
     box-shadow: 0 0 87px 0 rgba(0, 0, 0, 0.09);
     padding-top: 50px;
-    width: 250px;
+    width: 100vw;
     overflow-y: auto;
   }
 }
 
 @media (min-width: 320px) and (max-width: 992px) and (min-width: 380px) {
   .offcanvas-active.navbar-expand-lg .navbar-collapse {
-    width: 300px;
+    width: 100vw;
   }
 }
 
 @media (min-width: 320px) and (max-width: 992px) and (min-width: 576px) {
   .offcanvas-active.navbar-expand-lg .navbar-collapse {
-    width: 350px;
+    width: 100vw;
   }
 }
 
